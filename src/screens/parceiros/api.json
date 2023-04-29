@@ -1,0 +1,34 @@
+{
+    "parceiros": [
+        {
+            "id": 1,
+            "name": "Padaria do Zé",
+            "logo": "./img/logo1.png",
+            "descricao": "Padaria do seu zé, pão quente toda hora!",
+            "localizacao": "Cotia, SP"
+        },
+        {
+            "id": 2,
+            "name": "Mercado do Tião",
+            "logo": "./img/logo2.png",
+            "descricao": "Aqui tem preço!",
+            "localizacao": "São Gonçalo, RJ"
+        },
+        {
+            "id": 3,
+            "name": "Farmacia da Praça",
+            "logo": "./img/logo3.png",
+            "descricao": "Preço pra toda vida!",
+            "localizacao": "Copacabana, RJ"
+        },
+        {
+            "id": 4,
+            "name": "Lanchonete da Maria",
+            "logo": "./img/logo4.png",
+            "descricao": "O Melhor lanche da cidade!",
+            "localizacao": "Cabo Frio, RJ"
+        }
+        
+    ]
+    
+}
